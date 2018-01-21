@@ -1,5 +1,7 @@
 *.pyc
 *.sqlite
 
+*/config/local.py
 
 venv/
+

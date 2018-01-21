@@ -24,7 +24,7 @@ def send_message(sender_id, message_text):
         )
     )
 
-    print(r.json)
+    # print(r.json)
     return
 
 
